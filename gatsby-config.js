@@ -7,8 +7,8 @@ module.exports = {
     {
       resolve: "gatsby-source-contentful",
       options: {
-        accessToken: "fzI-FVswshTgI-52ZjR3-qmX2Oim5HKMcIZ1OHHntAs",
-        spaceId: "btqgoklz6czt",
+        accessToken: "",
+        spaceId: "",
       },
     },
     "gatsby-plugin-postcss",
